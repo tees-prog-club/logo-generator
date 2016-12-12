@@ -3,6 +3,11 @@ Generates the Teesside University Programming Club logo using Sutherland-Hodgman
 
 Moves a mask across a logo shape to generate stripes on it using the [Sutherland-Hodgman](https://en.wikipedia.org/wiki/Sutherland%E2%80%93Hodgman_algorithm) polygon clipping algorithm. In the end, outputs an SVG of the logo to `logo.svg` in the same directory.  
 
+## Render
+Here's the logo that the program produces, rendered as a PNG.
+
+![Logo](logo.png)
+
 ## Usage
 This program is written in the scripting language Python. You'll need Python installed on your machine to run it. Call it like this:
 
