@@ -1,5 +1,5 @@
 # Logo Generator
-Generates the Teesside University Programming Club logo using Sutherland-Hodgman clipping.
+Generates the Teesside Programming Club logo using Sutherland-Hodgman clipping.
 
 Moves a mask across a logo shape to generate stripes on it using the [Sutherland-Hodgman](https://en.wikipedia.org/wiki/Sutherland%E2%80%93Hodgman_algorithm) polygon clipping algorithm. In the end, outputs an SVG of the logo to `logo.svg` in the same directory.  
 
